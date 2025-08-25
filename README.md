@@ -41,14 +41,14 @@
 
 ## Lifelong Learning
 
-* CSUN myCSUNSoftware (aka "Apporto")
-  * n/a (but other GUI and CLI software runs here)
-  * Start here: [myCSUNSoftware]<https://www.csun.edu/it/software-services/software/all-software/mycsunsoftware>
+* Face-to-face Networking still matters
+  * e.g., DataCon LA (Sat., Nov. 8, 2025, CSU Long Beach, inexpensive): [DataConLA]<https://www.dataconla.com>
+  * e.g., Biostatistics Symposium of Southern California (Wed./Thu, Jan. 22/23, 2025, Newport Beach, inexpensive): [Biostatistics Symposium of Southern California]<https://biostatsymposium.org/>
+  * e.g., Meetup - West LA Data Science R Users Group Meetup (Thu., Oct. 3, 2024, Westwood, free): [West LA Data Science R Users Group]<https://www.meetup.com/scasa1925/>
 
 
 ## Career Preparation
 
-* CSUN myCSUNSoftware (aka "Apporto")
-  * n/a (but other GUI and CLI software runs here)
-  * Start here: [myCSUNSoftware]<https://www.csun.edu/it/software-services/software/all-software/mycsunsoftware>
+* Public Portfolio
+  * WordPress Blog, Github repository, shinyapps.io dashboard, etc.
 
