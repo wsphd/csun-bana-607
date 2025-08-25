@@ -7,7 +7,7 @@
 **CSUN BANA 607 (Introduction to Business Analytics)**\
 **California State University, Northridge (CSUN)**
 
-**Introductory Presentation**\
+**Introductory Presentation**
 
 **Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>, office hours Wed 6-6:45**
 
