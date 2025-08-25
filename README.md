@@ -21,7 +21,7 @@
 * 'Horizonal' Thinking - Analytical Workflow
   * How Disney Does It: [Disney](images/disney.pdf")
 * 'Vertical' Thinking - Explanatory or Predictive Power
-  * Nazarian Lower- and Upper-Division Core Courses: [Business](images/business.pdf")
+  * Nazarian Lower- and Upper-Division Core Courses: [Business](https://github.com/wsphd/csun-bana-607/images/business.pdf")
 
 
 ## Rabbit Holes
