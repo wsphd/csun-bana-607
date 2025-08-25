@@ -42,9 +42,10 @@
 ## Lifelong Learning
 
 * Face-to-face Networking still matters
-  * e.g., DataCon LA (Sat., Nov. 8, 2025, CSU Long Beach, inexpensive): [DataConLA](https://www.dataconla.com)
-  * e.g., Biostatistics Symposium of Southern California (Wed./Thu, Jan. 22/23, 2025, Newport Beach, inexpensive): [Biostatistics Symposium of Southern California](https://biostatsymposium.org/)
-  * e.g., Meetup - West LA Data Science R Users Group Meetup (Thu., Oct. 3, 2024, Westwood, free): [West LA Data Science R Users Group](https://www.meetup.com/scasa1925/)
+  * e.g., Conference (in-person) - [DataConLA](https://www.dataconla.com): Sat., Nov. 8, 2025, CSU Long Beach, inexpensive
+  * e.g., Conference (in-person) - [Biostatistics Symposium of Southern California](https://biostatsymposium.org/): Wed./Thu, Jan. 22/23, 2025, Newport Beach, inexpensive
+  * e.g., Meetup (virtual) - [Analytics.club LA](https://www.meetup.com/ac-lax/): Thu., Aug. 28, 2025, Westwood, free (<https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9>
+  * e.g., Meetup (in-person) - [West LA Data Science R Users Group](https://www.meetup.com/scasa1925/): Thu., Oct. 3, 2024, Westwood, free
 
 
 ## Career Preparation
