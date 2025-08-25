@@ -19,7 +19,7 @@
   * Data and Methods (Meat in the middle)
   * Understanding of Results (Bun on bottom)
 * 'Horizonal' Thinking - Analytical Workflow
-  * How Disney Does It: [Disney](disney.pdf")
+  * How Disney Does It: [Disney](disney.pdf)
 * 'Vertical' Thinking - Explanatory or Predictive Power
   * Nazarian Lower- and Upper-Division Core Courses: [Business](business.pdf)
 
