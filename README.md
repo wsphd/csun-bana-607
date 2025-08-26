@@ -34,8 +34,8 @@
 
 ## "Rabbit Holes"
 
-* Analytical Methods (e.g., statistics, machine learning, spatial analysis, network analysis)
-* Data/Computational Technology (e.g., UI, programming, cloud, file formats, scale)
+* Analytical Methods (e.g., statistics, machine learning, spatial analysis, network analysis, and many, many more...)
+* Data/Computational Technology (e.g., UI, programming, cloud, file formats, security, and many, many more...)
 * Bottom line: Only you can determine how far you need to go on each dimension to address a client's, boss's, or organization's issue
 
 
@@ -47,7 +47,7 @@
   * Read first, listen later; or listen first, read later
 
 
-## Sample, recent WSJ Headlines
+## Sample, recent WSJ Headlines - [CSUN Library Access](https://ocw.smithw.org/bus312/librarymaterials.html)
 
 * Library: Moss (Zara/Dresses/Data/Profits)
   * How can a smaller fashion retailer use deep business analytics to compete in every aspect of managing the business?
