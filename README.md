@@ -49,7 +49,7 @@
 
 ## Sample, recent WSJ Headlines
 
-*  These articles can be accessed via the full citation at: [CSUN Library Access](https://ocw.smithw.org/bus312/librarymaterials.html)\
+(Note: These articles can be accessed via the full citation at: [CSUN Library Access](https://ocw.smithw.org/bus312/librarymaterials.html))
 
 * **Library: Moss (Zara/Dresses/Data/Profits)**
   * How can a smaller fashion retailer use deep business analytics to compete in every aspect of managing the business?
