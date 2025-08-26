@@ -47,29 +47,31 @@
   * e.g., Read first, listen later; or listen first, read later
 
 
-## Sample, recent WSJ Headlines - [CSUN Library Access](https://ocw.smithw.org/bus312/librarymaterials.html)
+## Sample, recent WSJ Headlines
 
-* Library: Moss (Zara/Dresses/Data/Profits)
+*  These articles can be accessed via the full citation at: [CSUN Library Access](https://ocw.smithw.org/bus312/librarymaterials.html)\
+
+* **Library: Moss (Zara/Dresses/Data/Profits)**
   * How can a smaller fashion retailer use deep business analytics to compete in every aspect of managing the business?
-* Library: Pohle (AirBnB Reviews)
+* **Library: Pohle (AirBnB Reviews)**
   * How can we use business analytics to improve the reliability and validity of subjective narrative reviews?
-* Library: Hopkins (Evaluating Drug Efficacy)
+* **Library: Hopkins (Evaluating Drug Efficacy)**
   * Using business analytics, scientists have finally determined--after almost 100 years--that the key decongestion ingredient in most over-the-counter cold medicines doesn't, in fact, work.
-* Library: Whelan (Disney Pay Dispute)
+* **Library: Whelan (Disney Pay Dispute)**
   * How do we use business analytics to evaluate the claim that female managers at an organization were systematically paid less than male managers at the same organization?
-* Library: Jakab (How Diapers Predict the Stock Market)
+* **Library: Jakab (How Diapers Predict the Stock Market)**
   * Within business analytics, which factors should go into a regression model to predict an outcome and why?
-* Library: Glickman (Rite Aid's AI/Facial Recognition)
+* **Library: Glickman (Rite Aid's AI/Facial Recognition)**
   * If a training dataset isn't complete, then any business analytics model built on that data used in a production environment will be neither accurate nor trustworthy?
-* Library: Michaels/Parker (Rent-Price Systems)
+* **Library: Michaels/Parker (Rent-Price Systems)**
   * Ethics: Can business analytics, deliberately or inadvertently, tilt the power dymamics of a market more towards producers than consumers (or vice-versa)?
-* Library: Flint (NFL Audience Data)
+* **Library: Flint (NFL Audience Data)**
   * Is it possible that the data used in business analytics is so valuable that an organization can make money from selling it?
-* Library: Maidenberg (OpenTable Data)
+* **Library: Maidenberg (OpenTable Data)**
   * Is it possible that business analytics in general is so valuable that it can create entirely new businesses?
-* Library: Beaton (The Craziest NFL Day)
+* **Library: Beaton (The Craziest NFL Day)**
   * Can the results from some Business analytics work be so controversial that every stakeholder will not be able to get everything they want?
-* Library: Sider (How United Airlines Picks Destinations)
+* **Library: Sider (How United Airlines Picks Destinations)**
   * Wouldn't you like to be on this business analytics team? (me?...yes!)
 
 
