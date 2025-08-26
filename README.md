@@ -12,16 +12,24 @@
 **Wayne Smith, Ph.D., _Department of Management_, <ws@csun.edu>, office hours Wed 6-6:45**
 
 
-## Background
+## Stay Focused
+
+* For Profit ('Blue Chip') - Increase Revenues, Decrease Costs, Meet Competition, Enforce Regulations
+* For Profit ('start-up') - Increase Top-Line Numbers, Increase Botton-Line Numbers, New Market Position, Meet Investors' Requirements
+* Non-Profit - Increase Allocations, Decrease Expenditures, Perform Coopetition, Ensure Policies
+* And all the while, help move the organization from existing technology to state-of-the-art technology
+
+
+## Proper Mindset
 
 * 'Sandwich' Model
   * Research Question(s) (Bun on top)
   * Data and Methods (Meat in the middle)
   * Understanding of Results (Bun on bottom)
 * 'Horizonal' Thinking - Analytical Workflow
-  * How Disney Does Analytics: [Disney](disney.pdf)
+  * How Disney Does Analytics: [Disney .pdf](disney.pdf)
 * 'Vertical' Thinking - Explanatory or Predictive Power
-  * Nazarian Lower- and Upper-Division Core Courses: [Business](business.pdf)
+  * Nazarian Lower- and Upper-Division Core Courses: [Business .pdf](business.pdf)
 
 
 ## "Rabbit Holes"
