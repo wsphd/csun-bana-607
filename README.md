@@ -36,7 +36,10 @@
 
 * **Analytical Methods** (e.g., statistics, machine learning, spatial analysis, network analysis, and many, many more...)
 * **Data/Computational Technology** (e.g., UI, programming, cloud, file formats, security, and many, many more...)
-* **Bottom line**: Only you can determine how far you need to go on each dimension to address a client's, boss's, or organization's issue
+* **Subject Matter Knowledge** (e.g., accountancy/finance, law/governance, advertising, operations/logistics, and many, many more...)
+* **Bottom line**: Only _you_ can determine how far you need to go on each dimension...
+  * ...to address a client's, boss's, or organization's issue,
+  * ...or to build a career
 
 
 ## Decision Trade-offs
