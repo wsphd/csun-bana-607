@@ -15,7 +15,7 @@
 ## Stay Focused
 
 * For Profit ('Blue Chip') - Increase Revenues, Decrease Costs, Meet Competition, Enforce Regulations
-* For Profit ('start-up') - Increase Top-Line Numbers, Increase Botton-Line Numbers, New Market Position, Meet Investors' Requirements
+* For Profit ('Start-up') - Increase Top-Line Numbers, Increase Botton-Line Numbers, New Market Position, Meet Investors' Requirements
 * Non-Profit - Increase Allocations, Decrease Expenditures, Perform Coopetition, Ensure Policies
 * And all the while, help move the organization from existing technology to state-of-the-art technology
 
@@ -45,6 +45,32 @@
   * small firm (you are a 'jack of all trades'); large firm (most decisions are made for you)
 * Organizational Culture (subtle)
   * Read first, listen later; or listen first, read later
+
+
+## Sample, recent WSJ Headlines
+
+* Library: Moss (Zara/Dresses/Data/Profits)
+  * How can a smaller fashion retailer use deep business analytics to compete in every aspect of managing the business?
+* Library: Pohle (AirBnB Reviews)
+  * How can a smaller fashion retailer use deep business analytics to compete in every aspect of managing the business?
+* Library: Hopkins (Evaluating Drug Efficacy)
+  * After 100 years, we have finally determined that more anti-histimines don't actually work.
+* Library: Whelan (Disney Pay Dispute)
+  * How do we evaluate a claim that female managers were systematically paid less than male managers?
+* Library: Jakab (How Diapers Predict the Stock Market)
+  * Which factors should go into a regression model to predict an outcome and why?
+* Library: Glickman (Rite Aid's AI/Facial Recognition)
+  * If a training dataset isn't complete, then any model built on that data used in a production environment will be neither accurate nor trustworthy?
+* Library: Michaels/Parker (Rent-Price Systems)
+  * Ethics: Can Business analytics tilt the power dymamics of a market more towards producers than consumers (or vice-versa)?
+* Library: Flint (NFL Audience Data)
+  * Business analytics data is so valuable that it is only available to paying members.
+* Library: Maidenberg (OpenTable Data)
+  * Business analytics can create entirely new businesses.
+* Library: Beaton (The Craziest NFL Day)
+  * The worst day in the annual NFL year is the day each team is told what its schedule will be.
+* Library: Sider (How United Airlines Picks Destinations)
+  * Wouldn't you like to be on this business analytics team?
 
 
 ## Lifelong Learning
