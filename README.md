@@ -23,9 +23,9 @@
 ## Proper Mindset
 
 * 'Sandwich' Model
-  * Research Question(s) (Bun on top)
+  * Research Question(s) (Bun on the top)
   * Data and Methods (Meat in the middle)
-  * Understanding of Results (Bun on bottom)
+  * Understanding of Results (Bun on the bottom)
 * 'Horizonal' Thinking - Analytical Workflow
   * How Disney Does Analytics: [Disney .pdf](disney.pdf)
 * 'Vertical' Thinking - Explanatory or Predictive Power
