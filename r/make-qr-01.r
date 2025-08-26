@@ -17,4 +17,4 @@ qr_code.code <- qr_code( "https://github.com/wsphd/csun-bana-607" )
 print( qr_code.code )
 
 # save the code as a .svg file
-generate_svg( qr_code.code, filename = "c:/wsmith/github/csun-hpc/images/qr.svg", size = 200 )
+generate_svg( qr_code.code, filename = "c:/wsmith/github/csun-bana-607/images/qr.svg", size = 200 )
