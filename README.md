@@ -24,11 +24,11 @@
   * Nazarian Lower- and Upper-Division Core Courses: [Business](business.pdf)
 
 
-## Rabbit Holes
+## "Rabbit Holes"
 
-* Analytical Methods (e.g., statistics, machine learning)
-* Data/Computational Technology (e.g., graphics, programming, cloud, file formats, scale)
-* Bottom line: Only you can determine how far you need to go (shallow or deep) on each to address a client's, boss's, or organization's issue
+* Analytical Methods (e.g., statistics, machine learning, spatial analysis, network analysis)
+* Data/Computational Technology (e.g., UI, programming, cloud, file formats, scale)
+* Bottom line: Only you can determine how far you need to go on each dimension to address a client's, boss's, or organization's issue
 
 
 ## Decision Trade-offs
