@@ -14,36 +14,36 @@
 
 ## Stay Focused
 
-* For Profit ('Blue Chip') - Increase Revenues, Decrease Costs, Meet Competition, Enforce Regulations
-* For Profit ('Start-up') - Increase Top-Line Numbers, Increase Botton-Line Numbers, New Market Position, Meet Investors' Requirements
-* Non-Profit - Increase Allocations, Decrease Expenditures, Perform Coopetition, Ensure Policies
+* **For Profit (_'Established'_)** - Increase Revenues, Decrease Costs, Meet Competition, Enforce Regulations
+* **For Profit (_'Start-up'_)** - Increase Top-Line Numbers, Increase Botton-Line Numbers, New Market Position, Meet Investors' Requirements
+* **Non-Profit** - Increase Allocations, Decrease Expenditures, Perform Coopetition, Ensure Policies
 * And all the while, help move the organization from existing technology to state-of-the-art technology
 
 
 ## Proper Mindset
 
-* 'Sandwich' Model
+* **'Sandwich' Model**
   * Research Question(s) (Bun on the top)
   * Data and Methods (Meat in the middle)
   * Understanding of Results (Bun on the bottom)
-* 'Horizonal' Thinking - Analytical Workflow
+* **'Horizonal' Thinking** - Analytical Workflow
   * How Disney Does Analytics: [Disney .pdf](disney.pdf)
-* 'Vertical' Thinking - Explanatory or Predictive Power
+* **'Vertical' Thinking** - Explanatory or Predictive Power
   * Nazarian Lower- and Upper-Division Core Courses: [Business .pdf](business.pdf)
 
 
 ## "Rabbit Holes"
 
-* Analytical Methods (e.g., statistics, machine learning, spatial analysis, network analysis, and many, many more...)
-* Data/Computational Technology (e.g., UI, programming, cloud, file formats, security, and many, many more...)
+* **Analytical Methods** (e.g., statistics, machine learning, spatial analysis, network analysis, and many, many more...)
+* **Data/Computational Technology** (e.g., UI, programming, cloud, file formats, security, and many, many more...)
 * Bottom line: Only you can determine how far you need to go on each dimension to address a client's, boss's, or organization's issue
 
 
 ## Decision Trade-offs
 
-* Organizational Size (not so subtle)
+* **Organizational Size** (_not so subtle_)
   * e.g., small firm (you are a 'jack of all trades'); large firm (most decisions have already been made for you)
-* Organizational Culture (subtle)
+* **Organizational Culture** (_subtle_)
   * e.g., Read first, listen later; or listen first, read later
 
 
@@ -76,14 +76,14 @@
 ## Lifelong Learning
 
 * Face-to-face Networking still matters
-  * e.g., Conference (in-person) - [DataConLA](https://www.dataconla.com): Sat., Nov. 8, 2025, CSU Long Beach, inexpensive
-  * e.g., Conference (in-person) - [Biostatistics Symposium of Southern California](https://biostatsymposium.org/): Wed./Thu, Jan. 22/23, 2025, Newport Beach, inexpensive
-  * e.g., Meetup (virtual) - [Analytics.club LA](https://www.meetup.com/ac-lax/): Thu., Aug. 28, 2025, Westwood, free (<https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9>
-  * e.g., Meetup (in-person) - [West LA Data Science R Users Group](https://www.meetup.com/scasa1925/): Thu., Oct. 3, 2024, Westwood, free
+  * e.g., **Conference (in-person)** - [DataConLA](https://www.dataconla.com): Sat., Nov. 8, 2025, CSU Long Beach, inexpensive
+  * e.g., **Conference (in-person)** - [Biostatistics Symposium of Southern California](https://biostatsymposium.org/): Wed./Thu, Jan. 22/23, 2025, Newport Beach, inexpensive
+  * e.g., **Meetup (virtual)** - [Analytics.club LA](https://www.meetup.com/ac-lax/): Thu., Aug. 28, 2025, Westwood, free (<https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9>
+  * e.g., **Meetup (in-person)** - [West LA Data Science R Users Group](https://www.meetup.com/scasa1925/): Thu., Oct. 3, 2024, Westwood, free
 
 
 ## Career Preparation
 
-* Public Portfolio
+* **Public Portfolio**
   * WordPress Blog, Github repository, shinyapps.io dashboard, etc.
 
