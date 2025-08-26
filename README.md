@@ -42,9 +42,9 @@
 ## Decision Trade-offs
 
 * Organizational Size (not so subtle)
-  * small firm (you are a 'jack of all trades'); large firm (most decisions are made for you)
+  * e.g., small firm (you are a 'jack of all trades'); large firm (most decisions have already been made for you)
 * Organizational Culture (subtle)
-  * Read first, listen later; or listen first, read later
+  * e.g., Read first, listen later; or listen first, read later
 
 
 ## Sample, recent WSJ Headlines - [CSUN Library Access](https://ocw.smithw.org/bus312/librarymaterials.html)
@@ -52,25 +52,25 @@
 * Library: Moss (Zara/Dresses/Data/Profits)
   * How can a smaller fashion retailer use deep business analytics to compete in every aspect of managing the business?
 * Library: Pohle (AirBnB Reviews)
-  * How can a smaller fashion retailer use deep business analytics to compete in every aspect of managing the business?
+  * How can we use business analytics to improve the reliability and validity of subjective narrative reviews?
 * Library: Hopkins (Evaluating Drug Efficacy)
-  * After 100 years, we have finally determined that more anti-histimines don't actually work.
+  * Using business analytics, scientists have finally determined--after almost 100 years--that the key decongestion ingredient in most over-the-counter cold medicines doesn't, in fact, work.
 * Library: Whelan (Disney Pay Dispute)
-  * How do we evaluate a claim that female managers were systematically paid less than male managers?
+  * How do we use business analytics to evaluate the claim that female managers at an organization were systematically paid less than male managers at the same organization?
 * Library: Jakab (How Diapers Predict the Stock Market)
-  * Which factors should go into a regression model to predict an outcome and why?
+  * Within business analytics, which factors should go into a regression model to predict an outcome and why?
 * Library: Glickman (Rite Aid's AI/Facial Recognition)
-  * If a training dataset isn't complete, then any model built on that data used in a production environment will be neither accurate nor trustworthy?
+  * If a training dataset isn't complete, then any business analytics model built on that data used in a production environment will be neither accurate nor trustworthy?
 * Library: Michaels/Parker (Rent-Price Systems)
-  * Ethics: Can Business analytics tilt the power dymamics of a market more towards producers than consumers (or vice-versa)?
+  * Ethics: Can business analytics, deliberately or inadvertently, tilt the power dymamics of a market more towards producers than consumers (or vice-versa)?
 * Library: Flint (NFL Audience Data)
-  * Business analytics data is so valuable that it is only available to paying members.
+  * Is it possible that the data used in business analytics is so valuable that an organization can make money from selling it?
 * Library: Maidenberg (OpenTable Data)
-  * Business analytics can create entirely new businesses.
+  * Is it possible that business analytics in general is so valuable that it can create entirely new businesses?
 * Library: Beaton (The Craziest NFL Day)
-  * The worst day in the annual NFL year is the day each team is told what its schedule will be.
+  * Can the results from some Business analytics work be so controversial that every stakeholder will not be able to get everything they want?
 * Library: Sider (How United Airlines Picks Destinations)
-  * Wouldn't you like to be on this business analytics team?
+  * Wouldn't you like to be on this business analytics team? (me?...yes!)
 
 
 ## Lifelong Learning
