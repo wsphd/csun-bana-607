@@ -33,9 +33,9 @@
 
 ## Decision Trade-offs
 
-* Organizational Size
+* Organizational Size (not so subtle)
   * small firm (you are a 'jack of all trades'); large firm (most decisions are made for you)
-* Organizational Culture
+* Organizational Culture (subtle)
   * Read first, listen later; or listen first, read later
 
 
