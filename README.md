@@ -30,7 +30,7 @@
   * How Disney Does Analytics: [Disney (.pdf)](disney.pdf)
 * **'Vertical' Thinking** - Explanatory or Predictive Power
   * Nazarian Lower- and Upper-Division Core Courses: [Business (.pdf)](business.pdf)
-* **Discourse Matter** - e.g., use words such as "Opportunity" or "Challenge" whenever you can
+* **Discourse Matters** - e.g., use words such as "Opportunity" or "Challenge" whenever you can
 
 
 ## "Rabbit Holes"
