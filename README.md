@@ -36,7 +36,7 @@
 ## "Rabbit Holes"
 
 * **Analytical Methods** (e.g., statistics, machine learning, spatial analysis, network analysis, and many, many more...)
-* **Data/Computational Technology** (e.g., UI, programming, cloud, file formats, security, and many, many more...)
+* **Data/Computational Technology** (e.g., UI, programming, cloud, file formats, databases, networking/security, and many, many more...)
 * **Subject Matter Knowledge** (e.g., accountancy/finance, law/governance, advertising, operations/logistics, and many, many more...)
 * **Bottom line**: Only _you_ can determine how far you need to go on each dimension...
   * ...to address a client's, boss's, or organization's issue,
@@ -83,7 +83,7 @@
 
 * Face-to-face Networking still matters
   * e.g., **Conference (in-person)** - [DataConLA](https://www.dataconla.com): Sat., Nov. 8, 2025, CSU Long Beach, inexpensive
-  * e.g., **Conference (in-person)** - [Biostatistics Symposium of Southern California](https://biostatsymposium.org/): Wed./Thu, Jan. 22/23, 2025, Newport Beach, inexpensive
+  * e.g., **Conference (in-person)** - [Biostatistics Symposium of Southern California](https://biostatsymposium.org/): Thu./Fri., Jan. 22/23, 2026, Newport Beach, inexpensive
   * e.g., **Meetup (virtual)** - [Analytics.club LA](https://www.meetup.com/ac-lax/): Thu., Aug. 28, 2025, Westwood, free (<https://events.tao.ai/pod/analytics.club/q4j5imq9qjs9>
   * e.g., **Meetup (in-person)** - [West LA Data Science R Users Group](https://www.meetup.com/scasa1925/): Thu., Oct. 3, 2024, Westwood, free
 
